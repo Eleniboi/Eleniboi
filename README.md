@@ -11,9 +11,8 @@ I'm a developer who enjoys turning ideas into real, useful experiences. I like b
 ## 🚀 What I'm Into
 
 - Software development
-- Web technologies
+- Cloud DevOps Engineering 
 - Building real-world projects
-- Learning new frameworks and tools
 - Writing readable, maintainable code
 - Turning ideas into usable products
 
