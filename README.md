@@ -2,13 +2,13 @@
 
 # Hi, I'm Eleniboi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Cloud+DevOps+Engineer+%7C+Learner+%7C+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Cloud+DevOps+Engineer+%7C+Learner+%7C+Developer+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
 
-I’m a developer who enjoys turning ideas into real, useful experiences. I like building products, learning new tools, and solving problems with clean, thoughtful code. My focus is on creating things that are practical, engaging, and worth sharing.
+I'm a developer who enjoys turning ideas into real, useful experiences. I like building products, learning new tools, and solving problems with clean, thoughtful code. My focus is on creating things that are useful, reliable, and enjoyable to use.
 
 </div>
 
-## 🚀 What I’m Into
+## 🚀 What I'm Into
 
 - Software development
 - Web technologies
@@ -58,7 +58,7 @@ I’m a developer who enjoys turning ideas into real, useful experiences. I like
 
 ## 🌱 Current Focus
 
-I’m currently exploring:
+I'm currently exploring:
 
 - modern frontend development
 - cleaner UI/UX patterns
@@ -86,6 +86,6 @@ An ongoing project where I experiment with design, structure, and product thinki
 
 ## ✨ Closing Note
 
-I’m always learning, building, and improving. If something interests me, I’m eager to explore it, test it, and turn it into something useful.
+I'm always learning, building, and improving. If something interests me, I'm eager to explore it, test it, and turn it into something useful.
 
 Thanks for stopping by! 🚀
