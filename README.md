@@ -2,9 +2,9 @@
 
 # Hi, I'm Eleniboi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Cloud+DevOps+Engineer+%7C+Learner+%7C+Developer+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Cloud+DevOps+Engineer+%7C+Learner+%7C+Developer+%7C+Builder&width=1000&height=80" alt="Typing SVG" />
 
-I'm a developer who enjoys turning ideas into real, useful experiences. I like building products, learning new tools, and solving problems with clean, thoughtful code. My focus is on creating things that are useful, reliable, and enjoyable to use.
+I'm a developer who enjoys turning ideas into real, useful experiences. I like building products, learning new tools, and solving problems with clean, thoughtful code. My focus is on creating things that are practical, scalable, and meaningful.
 
 </div>
 
@@ -47,7 +47,7 @@ I'm a developer who enjoys turning ideas into real, useful experiences. I like b
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eleniboi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eleniboi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Eleniboi&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleniboi&layout=compact&theme=tokyonight&hide_border=true)
 
