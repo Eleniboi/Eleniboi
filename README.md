@@ -79,7 +79,7 @@ An ongoing project where I experiment with design, structure, and product thinki
 - GitHub: https://github.com/Eleniboi
 - LinkedIn: [Add your profile]
 - Portfolio: [Add your site]
-- Email: [Add your email]
+- Email: omafuoloche4@gmail.com
 
 ## ✨ Closing Note
 
