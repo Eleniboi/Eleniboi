@@ -10,6 +10,7 @@ I'm a developer who enjoys turning ideas into real, useful experiences. I like b
 
 ## 🚀 What I'm Into
 
+- building, integrating, and maintaining reliable AI-powered software systems in production
 - Software development
 - Cloud DevOps Engineering 
 - Building real-world projects
